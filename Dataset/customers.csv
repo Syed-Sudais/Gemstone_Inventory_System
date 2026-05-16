@@ -1,0 +1,76 @@
+customer_id,customer_name,phone,email,address,city,registered_date,total_purchases
+1,Mackenzie Perez,-6360,mackenzie.perez1@yahoo.com,6205 Maple St,Los Angeles,11/29/2019,56021.91
+2,Alyssa Nguyen,-3746,alyssa.nguyen2@outlook.com,5557 Cherry Pl,Chicago,12/17/2023,71559.9
+3,Paisley Collins,-7521,paisley.collins3@gmail.com,5980 Elm Dr,Houston,10/3/2021,32821.18
+4,Anna Young,-5969,anna.young4@yahoo.com,4974 Cherry Ave,Phoenix,9/23/2018,111401.71
+5,Liam Baker,-5651,liam.baker5@outlook.com,9570 Elm Pl,Philadelphia,7/10/2019,133237.39
+6,Lydia Turner,-7368,lydia.turner6@gmail.com,5893 Birch Pl,San Antonio,1/12/2021,5018.01
+7,Brooklyn King,-5839,brooklyn.king7@yahoo.com,2506 Cedar Ct,San Diego,4/6/2025,199861.91
+8,Emily Bell,-6823,emily.bell8@outlook.com,4917 Cedar Ct,Dallas,4/2/2021,158775.35
+9,James Ramirez,-9659,james.ramirez9@gmail.com,693 Maple Way,San Jose,7/18/2018,129990.28
+10,Sarah Allen,-9125,sarah.allen10@yahoo.com,4589 Birch Way,Austin,4/22/2019,101361.29
+11,Olivia Mitchell,-2614,olivia.mitchell11@outlook.com,1420 Walnut Way,Jacksonville,2/4/2019,129424.15
+12,Emma Campbell,-9268,emma.campbell12@gmail.com,1185 Maple Ln,Fort Worth,11/28/2020,126842.32
+13,Nora Green,-3753,nora.green13@yahoo.com,772 Cherry Ct,Columbus,7/18/2021,95753.96
+14,Kinsley Gonzalez,-3861,kinsley.gonzalez14@outlook.com,688 Pine Ct,Charlotte,10/18/2018,86758.85
+15,Eleanor Jones,-7987,eleanor.jones15@gmail.com,8199 Elm Way,Indianapolis,10/13/2023,56081.5
+16,Skylar Anderson,-4570,skylar.anderson16@yahoo.com,2284 Cedar St,San Francisco,12/7/2022,205003.28
+17,Lily Parker,-8493,lily.parker17@outlook.com,4918 Oak Blvd,Seattle,6/22/2024,152529.15
+18,Zoey Cooper,-8527,zoey.cooper18@gmail.com,6519 Walnut Ln,Denver,4/20/2025,45048.99
+19,Rylee Torres,-9113,rylee.torres19@yahoo.com,6879 Cherry Way,Nashville,9/5/2021,103182.95
+20,Maya Morris,-10295,maya.morris20@outlook.com,8148 Walnut Ct,Oklahoma City,1/16/2023,65193.57
+21,Grace Garcia,-2097,grace.garcia21@gmail.com,7254 Walnut Dr,El Paso,8/12/2023,190679.39
+22,Claire Johnson,-2102,claire.johnson22@yahoo.com,7714 Walnut Ave,Washington DC,10/24/2019,179980.47
+23,Sophia Scott,-9844,sophia.scott23@outlook.com,9890 Maple Ln,Las Vegas,8/20/2018,50780.91
+24,Reagan Phillips,-10487,reagan.phillips24@gmail.com,8037 Birch Ave,Boston,3/11/2025,34080.81
+25,Audrey Hill,-9943,audrey.hill25@yahoo.com,7097 Cherry St,Portland,1/16/2018,207144.41
+26,Amelia Wilson,-11085,amelia.wilson26@outlook.com,3917 Cedar Ln,Memphis,6/3/2020,7578.98
+27,Bella Kelly,-2772,bella.kelly27@gmail.com,1284 Pine Ct,Louisville,5/6/2019,4195.34
+28,Jade Carter,-6096,jade.carter28@yahoo.com,5432 Maple Ct,Baltimore,4/14/2020,142984.19
+29,Leah Roberts,-5893,leah.roberts29@outlook.com,8830 Oak Pl,Milwaukee,5/4/2022,42884.23
+30,Quinn Williams,-9063,quinn.williams30@gmail.com,262 Elm Ln,Albuquerque,1/15/2022,103965.61
+31,Evelyn Hernandez,-6171,evelyn.hernandez31@yahoo.com,7122 Cedar Ln,Tucson,4/5/2025,200399.79
+32,Lillian Brown,-4948,lillian.brown32@outlook.com,6122 Walnut St,Fresno,3/3/2023,104295.43
+33,Addison Moore,-10248,addison.moore33@gmail.com,8265 Cedar Ln,Sacramento,6/28/2019,60946.11
+34,Riley Bailey,-7355,riley.bailey34@yahoo.com,8241 Cherry Pl,Kansas City,10/6/2023,13223.36
+35,Savannah Lewis,-9427,savannah.lewis35@outlook.com,9590 Birch Ln,Atlanta,12/4/2024,6670.61
+36,Layla Edwards,-2861,layla.edwards36@gmail.com,5362 Walnut Dr,Miami,9/30/2023,247109.81
+37,Isabella White,-2559,isabella.white37@yahoo.com,5902 Pine Ct,Raleigh,11/4/2022,60403.46
+38,Noah Smith,-8632,noah.smith38@outlook.com,9354 Oak St,Omaha,3/3/2024,55991.9
+39,Aubrey Peterson,-7336,aubrey.peterson39@gmail.com,4538 Birch Ave,Minneapolis,5/8/2025,27960.72
+40,Camila Murphy,-6359,camila.murphy40@yahoo.com,5511 Walnut Blvd,New York,3/22/2022,241185.07
+41,Cora Flores,-6607,cora.flores41@outlook.com,1999 Cherry Way,Los Angeles,2/14/2020,105370.14
+42,Natalie Adams,-2733,natalie.adams42@gmail.com,3634 Maple Way,Chicago,5/27/2025,77164.35
+43,Aria Jackson,-3362,aria.jackson43@yahoo.com,4654 Elm Ln,Houston,10/10/2018,169989.23
+44,Piper Hall,-8651,piper.hall44@outlook.com,8265 Cherry Ln,Phoenix,7/8/2020,34280.32
+45,Victoria Cook,-6437,victoria.cook45@gmail.com,8595 Oak Ln,Philadelphia,6/17/2019,74849.23
+46,Genesis Thomas,-7856,genesis.thomas46@yahoo.com,2090 Walnut Blvd,San Antonio,3/1/2023,67891.54
+47,Kennedy Rivera,-11288,kennedy.rivera47@outlook.com,1900 Cherry Blvd,San Diego,9/3/2018,2839.76
+48,Lucy Walker,-7445,lucy.walker48@gmail.com,5977 Walnut St,Dallas,2/13/2021,122589.72
+49,Mia Lopez,-2858,mia.lopez49@yahoo.com,4254 Walnut Pl,San Jose,5/30/2019,142851.22
+50,Ella Wright,-8828,ella.wright50@outlook.com,4399 Pine Ct,Austin,8/12/2019,166214.49
+51,Madeline Miller,-2707,madeline.miller51@gmail.com,6667 Maple Blvd,Jacksonville,4/25/2021,215014.84
+52,Charlotte Taylor,-5502,charlotte.taylor52@yahoo.com,634 Pine Blvd,Fort Worth,1/17/2023,138037.9
+53,Ariana Davis,-8283,ariana.davis53@outlook.com,3607 Cherry Dr,Columbus,1/29/2024,176790.36
+54,Aaliyah Thompson,-3417,aaliyah.thompson54@gmail.com,6754 Cherry Ave,Charlotte,12/9/2019,182083.08
+55,Hannah Sanchez,-9494,hannah.sanchez55@yahoo.com,7641 Maple Blvd,Indianapolis,8/17/2021,104434.81
+56,Everly Harris,-10404,everly.harris56@outlook.com,1417 Elm Ln,San Francisco,4/30/2024,45212.86
+57,Gianna Martinez,-7321,gianna.martinez57@gmail.com,7293 Pine Pl,Seattle,12/4/2024,87650.58
+58,Scarlett Nguyen,-6140,scarlett.nguyen58@yahoo.com,983 Cedar Ln,Denver,10/20/2021,136895.97
+59,Harper Rogers,-5519,harper.rogers59@outlook.com,6147 Maple Dr,Nashville,3/20/2022,17089.63
+60,Aurora Robinson,-7165,aurora.robinson60@gmail.com,2404 Walnut Blvd,Oklahoma City,6/24/2021,243643.36
+61,Allison Clark,-3307,allison.clark61@yahoo.com,4550 Oak Pl,El Paso,6/7/2019,169616.63
+62,Caroline Martin,-3549,caroline.martin62@outlook.com,3256 Pine Pl,Washington DC,6/16/2024,147363.54
+63,Willow Reed,-3654,willow.reed63@gmail.com,8063 Pine Pl,Las Vegas,5/11/2018,75245.5
+64,Ellie Morgan,-2709,ellie.morgan64@yahoo.com,5188 Cherry St,Boston,4/10/2020,77250.45
+65,Hazel Flores,-2611,hazel.flores65@outlook.com,9222 Elm St,Portland,9/15/2022,132732.62
+66,Ava Stewart,-6579,ava.stewart66@gmail.com,3232 Cherry Pl,Memphis,8/26/2024,234345.84
+67,Penelope Gomez,-8961,penelope.gomez67@yahoo.com,4044 Oak Pl,Louisville,5/2/2021,4900.59
+68,Stella Evans,-3842,stella.evans68@outlook.com,5786 Cedar Ln,Baltimore,5/29/2018,243629.4
+69,Alice Nelson,-5147,alice.nelson69@gmail.com,772 Cherry St,Milwaukee,3/23/2022,246387.32
+70,Gabriella Lee,-11232,gabriella.lee70@yahoo.com,55 Pine Ave,Albuquerque,4/22/2023,239189.44
+71,Chloe Perez,-3118,chloe.perez71@outlook.com,2203 Elm Ln,Tucson,8/27/2023,80839.39
+72,Violet Nguyen,-7489,violet.nguyen72@gmail.com,6450 Pine Ave,Fresno,4/13/2021,202709.13
+73,Abigail Collins,-9853,abigail.collins73@yahoo.com,7792 Walnut Way,Sacramento,12/1/2018,185897.62
+74,Autumn Young,-6220,autumn.young74@outlook.com,5314 Oak Ln,Kansas City,3/18/2024,2795.75
+75,Luna Baker,-2459,luna.baker75@gmail.com,6291 Oak St,Atlanta,4/18/2022,162429.21

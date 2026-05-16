@@ -1,0 +1,61 @@
+category_id,category_name,description,created_at
+1,Diamonds,Precious carbon crystals prized for hardness and brilliance,10/28/2020 0:22
+2,Rubies,Red corundum gemstones symbolizing passion and power,7/14/2024 12:58
+3,Sapphires,Blue corundum gems known for their royal appeal,7/13/2019 3:31
+4,Emeralds,Green beryl gems revered for their lush color,6/4/2023 22:42
+5,Opals,Iridescent silica gems displaying play-of-color,6/20/2023 18:01
+6,Pearls,Organic gems produced by mollusks,5/28/2022 11:08
+7,Amethysts,Purple quartz used in fine jewelry,2/10/2019 8:53
+8,Aquamarines,Blue-green beryl gems of sea-like clarity,2/14/2022 2:40
+9,Topaz,Silicate gems in diverse colors including blue and imperial,2/14/2019 0:39
+10,Turquoise,Opaque blue-green phosphate mineral,10/1/2023 23:14
+11,Garnets,Iron-rich silicate gems in red to orange hues,10/19/2018 17:35
+12,Tanzanite,Rare blue-violet zoisite from Tanzania,11/26/2021 10:45
+13,Alexandrite,Color-changing chrysoberyl from Russia,10/1/2018 2:18
+14,Spinels,Magnesium aluminum oxide gems in vivid hues,6/17/2018 11:11
+15,Peridots,Olive-green olivine gems of volcanic origin,2/15/2022 15:00
+16,Citrines,Yellow to orange quartz gems,2/4/2024 13:41
+17,Tourmalines,Multi-colored boron silicate gems,3/15/2024 22:28
+18,Moonstones,Feldspar gems with adularescent sheen,8/31/2019 20:04
+19,Zircons,Zirconium silicate gems with high refractive index,3/21/2022 4:54
+20,Jade,Nephrite and jadeite prized in Asian cultures,11/12/2024 19:45
+21,Labradorite,Feldspar with iridescent labradorescence,6/9/2020 23:34
+22,Kunzite,Pink to lilac spodumene gems,5/3/2025 21:52
+23,Morganite,Pink beryl gems associated with love,9/1/2021 10:19
+24,Chrysoberyl,Yellow-green beryl family gems,6/15/2020 4:07
+25,Hessonite,Orange-brown grossular garnet,3/28/2019 7:28
+26,Rhodolite,Rose-red to violet garnet variety,12/18/2023 3:56
+27,Tsavorite,Rare green grossular garnet,10/22/2024 18:16
+28,Demantoid,Green andradite garnet with high dispersion,4/9/2019 10:31
+29,Spessartite,Orange to red manganese garnet,8/3/2019 3:35
+30,Pyrope,Deep red magnesium-aluminum garnet,9/18/2022 21:26
+31,Iolite,Violet-blue cordierite gem,12/10/2019 0:08
+32,Andalusite,Pleochroic aluminum silicate gem,10/11/2019 19:10
+33,Sphene,Yellow-green titanite with fire exceeding diamond,7/26/2019 12:11
+34,Apatite,Phosphate mineral in teal and green hues,10/18/2021 6:57
+35,Scapolite,Calcium sodium silicate in yellow and violet,2/12/2018 19:08
+36,Kornerupine,Rare greenish magnesium borosilicate,1/25/2021 6:28
+37,Benitoite,Rare blue barium titanium silicate,7/17/2024 9:46
+38,Painite,One of the rarest minerals on Earth,12/13/2021 13:54
+39,Taaffeite,Ultra-rare magnesium beryllium aluminum oxide,10/21/2021 5:09
+40,Jeremejevite,Rare aluminum borate in sky-blue,10/28/2019 21:38
+41,Musgravite,Extremely rare oxide mineral,2/17/2025 1:50
+42,Grandidierite,Blue-green borosilicate from Madagascar,12/4/2019 19:32
+43,Serendibite,Rare calcium magnesium iron aluminoborosilicate,4/5/2020 9:54
+44,Poudretteite,Rare potassium sodium borosilicate,10/5/2024 18:23
+45,Hibonite,Rare calcium aluminum oxide,3/17/2021 16:52
+46,Fingerite,Ultra-rare copper vanadate,1/8/2024 9:32
+47,Clinohumite,Orange silicate from Russia,4/24/2018 7:28
+48,Lonsdaleite,Hexagonal diamond polymorph,7/26/2019 10:48
+49,Smithsonite,Zinc carbonate in pastel hues,12/19/2021 9:06
+50,Prehnite,Pale green calcium aluminium silicate,2/15/2022 3:10
+51,Chrysoprase,Apple-green chalcedony,9/13/2022 3:24
+52,Bloodstone,Dark green chalcedony with red spots,5/31/2018 11:08
+53,Carnelian,Orange-red chalcedony,5/13/2022 17:49
+54,Onyx,Black and white banded chalcedony,4/6/2025 22:46
+55,Sardonyx,Banded onyx with sard layers,3/9/2018 15:30
+56,Lapis Lazuli,Deep-blue metamorphic rock prized since antiquity,7/11/2022 6:34
+57,Malachite,Green copper carbonate mineral,7/20/2020 6:41
+58,Azurite,Deep-blue copper carbonate mineral,5/3/2023 9:26
+59,Amber,Fossilized tree resin in golden hues,1/21/2023 3:09
+60,Coral,Organic calcium carbonate from marine polyps,12/12/2019 4:47

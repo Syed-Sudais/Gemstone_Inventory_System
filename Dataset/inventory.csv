@@ -1,0 +1,81 @@
+inventory_id,gem_id,quantity_in_stock,reorder_level,last_updated,warehouse_location,status
+1,101,137,16,9/18/2024 23:24,High-Security G-1,In Stock
+2,102,60,14,9/29/2024 9:11,Vault A-1,In Stock
+3,103,25,23,5/24/2023 16:57,Storage D-1,In Stock
+4,104,1,28,5/12/2024 11:20,Storage D-2,Low Stock
+5,105,75,7,1/5/2023 7:07,Safe C-2,In Stock
+6,106,49,25,2/20/2025 4:30,Vault B-2,In Stock
+7,107,20,11,5/5/2023 8:11,Display Case 2,In Stock
+8,108,144,15,8/2/2023 9:38,Display Case 1,In Stock
+9,109,107,17,4/2/2023 6:48,Storage D-2,In Stock
+10,110,111,23,2/19/2025 4:57,Display Case 3,In Stock
+11,111,17,10,6/5/2025 0:59,Vault A-3,In Stock
+12,112,153,28,12/12/2023 17:14,Storage E-1,In Stock
+13,113,101,16,6/19/2023 4:28,Vault A-1,In Stock
+14,114,29,28,9/8/2023 5:10,Vault B-3,In Stock
+15,115,43,7,8/4/2024 11:13,Cold Vault F-1,In Stock
+16,116,150,7,4/9/2023 21:03,Vault A-1,In Stock
+17,117,164,26,12/11/2023 20:11,Storage D-2,In Stock
+18,118,187,23,1/2/2023 4:12,Storage D-2,In Stock
+19,119,168,17,3/20/2023 17:00,Safe C-3,In Stock
+20,120,75,11,3/3/2025 4:17,Safe C-1,In Stock
+21,121,169,7,11/16/2024 6:44,Vault B-2,In Stock
+22,122,100,25,5/10/2024 22:34,Storage D-2,In Stock
+23,123,18,11,5/16/2023 20:38,Storage E-1,In Stock
+24,124,53,13,11/20/2024 23:29,Storage D-2,In Stock
+25,125,180,11,10/9/2024 7:53,Storage E-1,In Stock
+26,126,173,26,12/11/2023 13:26,Storage D-2,In Stock
+27,127,7,21,11/13/2023 1:33,Vault B-2,Low Stock
+28,128,44,29,4/15/2023 21:15,Safe C-3,In Stock
+29,129,16,22,2/22/2023 4:13,Vault B-2,Low Stock
+30,130,39,15,6/10/2024 2:56,Safe C-1,In Stock
+31,131,117,5,4/26/2025 23:01,Vault A-1,In Stock
+32,132,146,24,9/29/2023 10:47,Display Case 1,In Stock
+33,133,168,11,9/5/2024 10:30,Storage D-2,In Stock
+34,134,173,11,3/11/2024 15:39,Safe C-1,In Stock
+35,135,131,23,7/4/2023 1:43,Display Case 3,In Stock
+36,136,178,16,11/29/2024 10:42,Cold Vault F-1,In Stock
+37,137,131,18,6/19/2023 2:12,Display Case 3,In Stock
+38,138,162,24,11/25/2024 9:38,Vault B-2,In Stock
+39,139,4,8,6/18/2023 21:39,Vault B-2,Low Stock
+40,140,40,14,4/3/2024 14:40,Safe C-1,In Stock
+41,141,55,14,6/10/2023 8:25,Display Case 1,In Stock
+42,142,139,14,4/14/2025 1:36,Storage D-1,In Stock
+43,143,110,5,3/8/2023 14:02,Storage D-1,In Stock
+44,144,49,19,2/10/2023 5:11,Storage E-1,In Stock
+45,145,105,19,10/2/2024 9:01,Storage E-1,In Stock
+46,146,135,19,9/14/2023 10:39,High-Security G-1,In Stock
+47,147,188,9,8/29/2023 1:21,Storage D-2,In Stock
+48,148,112,7,2/25/2024 14:46,Display Case 1,In Stock
+49,149,20,13,10/21/2023 3:15,Safe C-3,In Stock
+50,150,171,28,4/28/2024 2:55,High-Security G-1,In Stock
+51,151,61,7,11/21/2024 14:12,Storage D-2,In Stock
+52,152,148,20,2/28/2023 10:56,Display Case 1,In Stock
+53,153,118,9,3/25/2025 6:16,Storage D-2,In Stock
+54,154,15,16,3/22/2024 14:10,Storage E-1,Low Stock
+55,155,101,9,4/20/2024 10:19,Storage E-1,In Stock
+56,156,126,22,1/2/2024 22:24,Safe C-2,In Stock
+57,157,83,15,1/11/2023 2:25,Storage D-1,In Stock
+58,158,29,25,8/30/2023 23:06,Safe C-2,In Stock
+59,159,12,11,1/3/2024 17:20,High-Security G-1,In Stock
+60,160,149,12,1/9/2025 9:14,Safe C-3,In Stock
+61,161,74,30,3/4/2024 23:49,Vault A-1,In Stock
+62,162,67,30,4/28/2023 5:16,Safe C-3,In Stock
+63,163,193,15,8/12/2023 22:08,Display Case 2,In Stock
+64,164,129,15,5/8/2023 15:02,High-Security G-1,In Stock
+65,165,191,17,12/10/2024 2:56,Vault A-3,In Stock
+66,166,129,21,6/14/2023 19:06,Display Case 3,In Stock
+67,167,71,26,1/1/2025 4:14,Display Case 1,In Stock
+68,168,13,8,12/11/2023 19:47,Display Case 3,In Stock
+69,169,128,22,7/27/2023 5:38,Display Case 1,In Stock
+70,170,111,18,9/6/2024 0:47,Safe C-3,In Stock
+71,171,11,20,11/9/2024 22:31,Storage D-1,Low Stock
+72,172,188,19,6/14/2024 12:37,Display Case 1,In Stock
+73,173,44,27,6/12/2023 20:12,Safe C-1,In Stock
+74,174,111,8,6/25/2024 19:28,Storage D-1,In Stock
+75,175,173,29,2/22/2023 20:10,Vault A-1,In Stock
+76,176,75,22,6/13/2023 18:54,Vault B-3,In Stock
+77,177,1,15,3/31/2023 13:45,Vault B-1,Low Stock
+78,178,148,5,1/13/2024 14:42,Vault B-1,In Stock
+79,179,100,11,7/27/2023 9:25,Storage D-1,In Stock
+80,180,70,16,2/2/2023 5:51,Display Case 1,In Stock

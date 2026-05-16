@@ -1,0 +1,61 @@
+supplier_id,supplier_name,contact_person,phone,email,address,city
+1,De Beers Global,James Hartwell,-7358,jhart@debeers.com,1 Holborn Viaduct,London
+2,Gemfields Plc,Sarah Kimani,-10894,skimani@gemfields.com,2 Marble Arch,London
+3,Rio Tinto Diamonds,Carlos Mendes,-12558,cmendes@riotinto.com,120 Collins St,Melbourne
+4,Alrosa Mining,Dmitri Volkov,-8885,dvolkov@alrosa.ru,53 Leninsky Pr,Moscow
+5,Graff Originals,Emily Graff,-16131,egraff@graff.com,6 New Bond St,London
+6,Tiffany Gemstone Supply,Michael Chen,-8966,mchen@tiffany.com,727 Fifth Ave,New York
+7,Cartier Gem Trading,Pierre Dubois,-5328,pdubois@cartier.com,13 Rue de la Paix,Paris
+8,Harry Winston Corp,Lena Stark,-2456,lstark@harrywinston.com,718 Fifth Ave,New York
+9,Bulgari Gemstones,Antonio Rossi,-5125,arossi@bulgari.com,Via Condotti 10,Rome
+10,Van Cleef & Arpels,Isabelle Laurent,-4566,ilaurent@vca.com,22 Place Vendome,Paris
+11,Chopard Gems,Hans Mueller,-6290,hmueller@chopard.com,8 Rue de Veyrot,Geneva
+12,Boucheron Trading,Marie Fontaine,-5871,mfontaine@boucheron.com,26 Place Vendome,Paris
+13,Chow Tai Fook,David Wong,-5705,dwong@ctf.com,Hang Seng Centre,Hong Kong
+14,Luk Fook Gems,Grace Liu,-10772,gliu@lukfook.com,King's Road 99,Hong Kong
+15,Gem TV Wholesale,Omar Khalil,-3284,okhalil@gemtv.com,7835 E McDowell Rd,Scottsdale
+16,Omi Gems,Neha Patel,-9283,npatel@omigems.com,550 S Hill St,Los Angeles
+17,Columbia Gem House,Robert Walsh,-7356,rwalsh@cghusa.com,850 N 82nd St,Vancouver WA
+18,Greenland Ruby,Erik Larsen,-8820,elarsen@greenlandrubi.com,Bredgade 49,Copenhagen
+19,Mogok Valley Gems,Aung Kyaw,-778052,akyaw@mogokgems.mm,24 Merchant St,Yangon
+20,Ceylon Sapphires,Priya Jayawardena,-3573,pjaya@ceylongems.lk,34 D.R. Wijewardena Mw,Colombo
+21,Colombian Emeralds Int,Luis Herrera,-326,lherrera@colemerald.co,Carrera 7 #32-16,Bogota
+22,Zambia Gemstone Corp,Chanda Mwale,-306,cmwale@zambiagems.zm,Cairo Rd Plot 1,Lusaka
+23,Madagascar Gem Export,Fanja Rakoto,-158,frakoto@mdggems.mg,Lot II J 169,Antananarivo
+24,Brazilian Gem Trading,Ana Souza,-9226,asouza@brazilgems.br,Rua Guajajaras 500,Belo Horizonte
+25,Kashmir Sapphire House,Rajesh Kumar,-3350,rkumar@kashmirjewels.in,Residency Rd,Srinagar
+26,Jaipur Gem Palace,Vikram Singh,-4310,vsingh@jaipurgems.in,M.I. Road,Jaipur
+27,Bangkok Gem Fair,Somchai Panya,-1566,spanya@bangkokgems.th,Silom Rd 108,Bangkok
+28,Dubai Diamond Exchange,Ahmed Al Falasi,-4395,aalfalasi@dde.ae,DMCC Free Zone,Dubai
+29,Antwerp Diamond Ctr,Pieter Van Den Berg,-2425,pvdb@adcbv.be,Pelikaanstraat 62,Antwerp
+30,Gem Artisans Mumbai,Deepak Shah,-8319,dshah@gemartisans.in,Zaveri Bazaar,Mumbai
+31,Tokyo Precious Gems,Kenji Tanaka,-3595,ktanaka@tokyogems.jp,Ginza 6-7-4,Tokyo
+32,Sydney Gem Traders,Claire Booth,-9752,cbooth@sydneygems.au,Park St 56,Sydney
+33,Nairobi Gem Exchange,Amina Hassan,-6988,ahassan@nairobigems.ke,Moi Ave,Nairobi
+34,Peru Gemstone Export,Maria Vargas,-5395,mvargas@perugems.pe,Av. Benavides 2350,Lima
+35,Vietnam Gem Corp,Nguyen Thanh,-8873,nthanh@vietnamgems.vn,Hai Ba Trung 93,Hanoi
+36,Mozambique Rubies,Samuel Sitoe,-253,ssitoe@mozrubies.mz,Av. Julius Nyerere,Maputo
+37,Pakistan Emerald Mine,Farhan Qureshi,-2879,fqureshi@pakgems.pk,Blue Area F-7,Islamabad
+38,Nepal Himalayan Gems,Suresh Thapa,-5143,sthapa@himgems.np,Thamel Chowk,Kathmandu
+39,Iran Turquoise Mine,Reza Ahmadi,-13811,rahmadi@irangems.ir,Vali-e-Asr Ave,Tehran
+40,Ethiopia Opal Export,Biruk Tadesse,-1312,btadesse@ethgems.et,Bole Rd,Addis Ababa
+41,Australia Opal Co,Jack Turner,-11409,jturner@ausopal.au,Todd St,Alice Springs
+42,Mexico Fire Opal,Carlos Rivera,-9538,crivera@mexopal.mx,Av. Insurgentes 2453,Mexico City
+43,Tanzania Gem Ltd,Asha Msanya,19,amsanya@tanzgems.tz,Samora Ave,Dar es Salaam
+44,Idaho Star Garnet,Barbara Cole,-8328,bcole@idahogems.us,Main St 100,Boise
+45,Ural Gem Mining,Pavel Orlov,-9711,porlov@uralgems.ru,Lenina St 24,Yekaterinburg
+46,China Jade Exchange,Wei Zhang,-11822,wzhang@chinajade.cn,Yuexiu Rd 88,Guangzhou
+47,Korea Amethyst Corp,Ji-ho Park,-8673,jhpark@koreamethyst.kr,Jongno 3-ga,Seoul
+48,Canada Ammolite Co,Liam Murphy,-857,lmurphy@canadagems.ca,Banff Ave,Calgary
+49,Namibia Diamond Mine,Thomas Nangolo,-9004,tnangolo@namibiagem.na,Independence Ave,Windhoek
+50,Sierra Leone Diamond,Emmanuel Koroma,-25,ekoroma@sldiamonds.sl,Siaka Stevens St,Freetown
+51,Central African Gems,Jean-Pierre Boganda,-1080,jpboganda@cafgems.cf,Avenue Boganda,Bangui
+52,Angola Diamond Corp,Fatima Lopes,-616,flopes@angolagem.ao,Rua Rainha Ginga,Luanda
+53,Botswana Gem Export,Kgosi Sebele,-8128,ksebele@botswanagems.bw,The Mall,Gaborone
+54,Lesotho Mountain Gems,Thabo Lerotholi,-79,tlerotholi@lesothogems.ls,Kingsway,Maseru
+55,Indonesia Gem Trade,Budi Santoso,-7533,bsantoso@indogems.id,Jl. Sudirman 52,Jakarta
+56,Philippines Pearl Co,Maria Santos,-13757,msantos@philpearl.ph,Ayala Ave,Makati
+57,Spain Gem Wholesale,Carmen Ruiz,-5078,cruiz@spaingems.es,Calle Serrano 70,Madrid
+58,Greece Gem Exchange,Nikos Papadopoulos,-9503,npapadopoulos@greecegems.gr,Voukourestiou 10,Athens
+59,Turkey Gem Bazaar,Mehmet Yilmaz,-6204,myilmaz@turkeygems.tr,Grand Bazaar Kapalicarsi,Istanbul
+60,Egypt Gem Import,Hassan El-Sayed,-8778,helsayed@egyptgems.eg,El Gomhoreya St,Cairo

@@ -1,0 +1,51 @@
+user_id,username,password_hash,email,role,created_at,is_active
+1,alice_adams,9ba4d6bb94d5fa08792302fd91ea71bc73d0ea0376ad429ebd184149e1a8d0a2,alice_adams@gemstone-sys.com,Manager,4/13/2021 2:43,1
+2,bob_blake,846203625ad994e72b4c59e9f7e62e754472293a93a18ff06a21bc193581466f,bob_blake@gemstone-sys.com,Sales Representative,5/19/2019 18:11,1
+3,carol_clark,82eb0715eaaaa41d5f4d0b3df501cba7da17ace295ad8d6acc8a5db4fdeea500,carol_clark@gemstone-sys.com,Admin,11/6/2022 16:05,1
+4,david_dixon,bba72d98a500ab9518d97abc5b357eec35510a1580410e19f000043617759620,david_dixon@gemstone-sys.com,Manager,9/20/2021 0:26,1
+5,eve_evans,3f1f169e5a86bd4923419b3f9367969859169c7a27d985f9e10f3fe702bfda97,eve_evans@gemstone-sys.com,Sales Representative,3/14/2022 6:33,1
+6,frank_fox,06eac7361c841fcd0224baf5fecd15a3c03ec2b7cb8bd1e1053249ca14de1de2,frank_fox@gemstone-sys.com,Sales Representative,2/9/2019 10:35,1
+7,grace_grant,df1a2cc01b6fe82e83014c7be622ac80ee07ceb1d1c7806be8b90619d96ceef5,grace_grant@gemstone-sys.com,Sales Representative,11/18/2019 15:06,1
+8,henry_hayes,f25e5afc9be9f587ef7416480b6e202298ccd350a780e0e5ce7c4339f6f16239,henry_hayes@gemstone-sys.com,Admin,5/22/2020 15:12,1
+9,iris_ingram,f95941c497b333f79c7f112eca5bd0b15cab7a920d7103e663b3d30d014b9434,iris_ingram@gemstone-sys.com,Sales Representative,2/4/2020 18:37,1
+10,jack_johnson,c606a1279d0d2fa7d61e1ed070d0d5b1b58e3dea1056e8633ec1d3dac92500ef,jack_johnson@gemstone-sys.com,Manager,2/1/2019 14:25,1
+11,karen_klein,75695c4b22a577dddbea9b6c637cc8c1bd75ea80f696575041c21d22db31e1a8,karen_klein@gemstone-sys.com,Sales Representative,9/20/2020 18:41,1
+12,leo_lane,214252d4763db5d3e7c59e6c44ac4feb8512720d47cda72613547688332232e0,leo_lane@gemstone-sys.com,Sales Representative,10/28/2023 16:19,1
+13,maya_moore,6bd3b3da0281501b640e0f4167e3ba990d6f8b3209a8307b9e87738724c857b5,maya_moore@gemstone-sys.com,Sales Representative,7/24/2018 22:29,1
+14,nathan_nash,ee278082c85fbe1a65bb97a2120f2c8839d08d83e4547408f8b6addeda591a98,nathan_nash@gemstone-sys.com,Sales Representative,10/8/2018 0:02,1
+15,olivia_owen,cc2534664119c627a9c5a8dc23993a06dd0a9aea49540628edf9111ed9181354,olivia_owen@gemstone-sys.com,Manager,5/30/2021 22:01,1
+16,paul_perry,ec23ecec38bba7438e8578f904b78bcc5a786db8d53932bc5fe383d3bc420a9f,paul_perry@gemstone-sys.com,Sales Representative,2/25/2018 8:36,1
+17,quinn_quinn,97915cb3bfade705e202a7e054770e4101e1f3f2b92f6b70230e279e6c511954,quinn_quinn@gemstone-sys.com,Manager,4/11/2018 11:58,1
+18,rachel_reed,a952e378ac7cc7ca1307690540c9c5c9e12945cb82e6fe1dc72b01a82e6a2718,rachel_reed@gemstone-sys.com,Admin,12/23/2021 17:39,1
+19,sam_stone,9befcd0e2213a789136cff8210e7bc7d5417934fa703f4a003caf985aa755b55,sam_stone@gemstone-sys.com,Manager,4/28/2022 9:30,1
+20,tina_taylor,43ee0a26c1659c1737f3e2f9233dea0f6df3d9499d3e9bcced87829a8f54aced,tina_taylor@gemstone-sys.com,Manager,12/7/2022 12:17,1
+21,uma_upton,b15852a9e154d90ad332e8a7b546d0721a8d1bf4bba982d96814717b09ec4d6f,uma_upton@gemstone-sys.com,Sales Representative,11/30/2020 20:40,1
+22,victor_vale,efe4e86e0d6be776a1f05fb7674320065827d237220d2be128e512e32924b23f,victor_vale@gemstone-sys.com,Manager,4/7/2021 8:14,1
+23,wendy_west,d0b4321255bcb7ce2d456e68738365b7a52fdb758d3135dd165c7b5697e4b8bd,wendy_west@gemstone-sys.com,Sales Representative,5/31/2018 23:10,1
+24,xander_xiong,83f945c6b9910829caa57b6afca1889a121d1f906d665c154266cdb7d78838f8,xander_xiong@gemstone-sys.com,Sales Representative,1/24/2021 0:01,1
+25,yara_young,d3a8057a9ba095546631f639916402055ce5198173b445672ab6c7baf489c520,yara_young@gemstone-sys.com,Sales Representative,5/30/2021 0:47,1
+26,zoe_zhang,c75ed7c051354ffaa85740c619ff5db9c3c2f58e5c116c268e37994046a92dfc,zoe_zhang@gemstone-sys.com,Sales Representative,12/28/2019 21:37,1
+27,aaron_archer,68a90f4fbb97eaec8c236de08260f631d226fcf36af2309f20a124f6a457369a,aaron_archer@gemstone-sys.com,Sales Representative,2/28/2019 12:53,1
+28,bella_burns,ba05a54615d698cbd2d84aed81e15d72ddfba296ccbbfeb232a757f912380922,bella_burns@gemstone-sys.com,Sales Representative,3/12/2022 0:02,1
+29,chris_cole,14466bcc7a689f00ae83f7545a63ae6b3656dac1504ef5d21e59c88bae495471,chris_cole@gemstone-sys.com,Manager,7/10/2023 1:08,1
+30,diana_dean,2a3b4fea10035476db01c40dfa22364801ac24a48e238052abe108da35903c61,diana_dean@gemstone-sys.com,Sales Representative,3/4/2021 16:13,1
+31,ethan_elliot,b708623c5725427aeccdbdccd83f54becde0c5f5fbff557ad316b73975173156,ethan_elliot@gemstone-sys.com,Admin,11/14/2021 22:08,1
+32,fiona_frost,73ea4f073a5961d7824d55f3f5618b482d9d1e4887026f81cbfa00b7f2d2fa23,fiona_frost@gemstone-sys.com,Sales Representative,3/9/2022 16:23,1
+33,george_gordon,2a3696d5174c6c558454e9e3467ea2ce4003ceceb27afa8b8397c3b82cedb309,george_gordon@gemstone-sys.com,Sales Representative,12/8/2018 2:41,1
+34,hannah_hunt,6a2481074ecef02dfc70075c3ec722698847debfbc42e9fb2b0aeb7ecb696b60,hannah_hunt@gemstone-sys.com,Sales Representative,10/6/2019 15:57,1
+35,ivan_irving,ffc61dcc057f53c71942846e2c103cca66337026632fb6a25d59cc97bac30ef0,ivan_irving@gemstone-sys.com,Sales Representative,8/28/2022 1:19,1
+36,julia_james,c06566398ffd76116b02036ca04cdb33d526e9157e9552e9e7b4690041188318,julia_james@gemstone-sys.com,Sales Representative,12/15/2022 9:00,1
+37,kevin_kent,9bfb79b525e797eac539ef97e659af41cf53a3cbe49fc028f49fffd694a958c4,kevin_kent@gemstone-sys.com,Manager,7/7/2021 17:17,1
+38,laura_long,9ae128529d15e7402a11970f32a0822fe351d788e55884132c58d4a41d1db5c0,laura_long@gemstone-sys.com,Sales Representative,2/1/2022 8:32,1
+39,mike_mason,c41833226f78c9ba0676287f8323d9495c4827db0d579ef122969e7892c3cb93,mike_mason@gemstone-sys.com,Admin,4/8/2020 18:46,1
+40,nina_norris,620a879722c9994fb893d7ebd83224fc397d4b5e714499a307d601852a81074d,nina_norris@gemstone-sys.com,Sales Representative,6/11/2023 5:10,1
+41,oscar_oliver,06ade0a270cfc3d274dcf16058f6cd30d23734a132518919cb93efb4972b1531,oscar_oliver@gemstone-sys.com,Sales Representative,2/15/2019 17:28,1
+42,petra_price,1297d2f9f3fc9893660faacc9abae27ff3ec9216b5e406f4faae85da04c49208,petra_price@gemstone-sys.com,Manager,5/17/2019 14:49,1
+43,quincy_quill,35cb4730f8c7fd3ad3c2007dbd19d255890025ec522f034e94f2700e84ac0123,quincy_quill@gemstone-sys.com,Manager,3/21/2020 3:43,1
+44,rosa_ross,c183976a6cc8cf35046820518542630173608275f3ea5fd011e6d890e58bfc79,rosa_ross@gemstone-sys.com,Sales Representative,2/16/2020 9:58,1
+45,steve_shaw,00812b2e1136a0a0a313c464f92f6b633489670f871b2b26e865b7b2e250c745,steve_shaw@gemstone-sys.com,Manager,6/2/2023 10:18,1
+46,tara_trent,1160196bed43eed28944df7fc75aa89c645cd3df8c834d51abc05868ac351d28,tara_trent@gemstone-sys.com,Manager,9/19/2022 10:15,0
+47,ulric_urey,a52ba80ee6adc3f5e8144b7f1d54bea6a650e76965db7a0be0c3a06ddb83b96b,ulric_urey@gemstone-sys.com,Sales Representative,1/3/2019 15:54,0
+48,vera_vance,f0fe94ccffaf7a1bb9cc641048f3dff992fa0c7b0bb0ab32738cbcf4c0f073fd,vera_vance@gemstone-sys.com,Manager,3/23/2020 5:52,0
+49,wade_ward,a409600a61d605dc687283b8aa6e6c1186c6094755808d9cf3e76359cee8e28e,wade_ward@gemstone-sys.com,Sales Representative,8/17/2018 16:01,0
+50,xena_xu,328d67d0cb52851f8ef404f812df2b07b2981b14727e87a2af1c6ec96a350b4e,xena_xu@gemstone-sys.com,Sales Representative,8/16/2023 9:18,0
