@@ -1,0 +1,22 @@
+.sidebar{
+    background-color: #1e1e2f !important;
+    min-height: 100vh;
+}
+
+.main-content{
+    background-color: #f4f6f9;
+    min-height: 100vh;
+}
+
+.nav-link{
+    color: white !important;
+}
+
+.nav-link:hover{
+    background-color: #343a40;
+    border-radius: 8px;
+}
+
+.card{
+    border-radius: 15px;
+}
