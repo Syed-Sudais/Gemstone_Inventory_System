@@ -8,19 +8,39 @@ if ($_SERVER["REQUEST_METHOD"] == "POST") {
     $amount = $_POST['amount'];
     $sale_date = $_POST['sale_date'];
 
-    $query = "INSERT INTO sales
-              (customer_name, gemstone_name, amount, sale_date)
-              VALUES
-              ('$customer_name', '$gemstone_name', '$amount', '$sale_date')";
+    // INSERT SALE
+    $sale_query = "INSERT INTO sales
+    (customer_name, gemstone_name, amount, sale_date)
+    VALUES
+    ('$customer_name', '$gemstone_name', '$amount', '$sale_date')";
 
-    if (mysqli_query($conn, $query)) {
+    mysqli_query($conn, $sale_query);
 
-        header("Location: sales.php");
-        exit();
+    // CHECK INVENTORY
+    $inventory_query = "SELECT * FROM inventory
+                        WHERE gemstone_name='$gemstone_name'";
 
-    } else {
+    $inventory_result = mysqli_query($conn, $inventory_query);
 
-        echo "Error: " . mysqli_error($conn);
+    if(mysqli_num_rows($inventory_result) > 0){
+
+        $row = mysqli_fetch_assoc($inventory_result);
+
+        $new_quantity = $row['quantity'] - $amount;
+
+        // PREVENT NEGATIVE STOCK
+        if($new_quantity < 0){
+            $new_quantity = 0;
+        }
+
+        $update_query = "UPDATE inventory
+                         SET quantity='$new_quantity'
+                         WHERE gemstone_name='$gemstone_name'";
+
+        mysqli_query($conn, $update_query);
     }
+
+    header("Location: sales.php");
+    exit();
 }
 ?>
